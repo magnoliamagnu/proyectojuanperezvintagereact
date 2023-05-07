@@ -33,7 +33,7 @@ return (
             <ul className="dropdown-menu">
               <li><a className="dropdown-item" href="#">Oferta</a></li>
               <li><a className="dropdown-item" href="#">Tu cuenta</a></li>
-              <li><a className="dropdown-item" href="#">Nosotros</a></li>
+              <li><a className="dropdown-item" href="#">Historia</a></li>
             </ul>
           </li>
         </ul>
